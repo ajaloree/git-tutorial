@@ -5,3 +5,4 @@ Thor
 Spiderman
 Tarantula
 Iron Mon
+Tintin
